@@ -1,7 +1,7 @@
 <!--  ██████  ██████  ███    ██  █████  -->
 <!--  CCNA NETWORKING PROJECT README   -->
 
-<h1 align="center">🚀 CCNA Networking Project – Accounts & Delivery Network</h1>
+<h1 align="center">🚀 CCNA Networking Project </h1>
 
 <p align="center">
   <b>Designed Using Cisco Packet Tracer | Subnetting | Routing | Switching</b>
@@ -12,20 +12,33 @@
   <img src="https://img.shields.io/badge/PacketTracer-Project-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/IP-Subnetting-orange?style=for-the-badge"/>
 </p>
+# 🌐 Daily Networking Projects – Basic to Advanced
 
----
+Welcome to my Networking Practice Repository!  
+Here, I will be uploading **daily networking projects**, starting from the absolute basics and progressing towards **advanced CCNA-level and real-world networking labs**.
 
-## 📌 **Project Overview**
+This repository represents my journey of becoming a professional Network Engineer.
 
-This CCNA project demonstrates a fully designed and configured **two-department office network** using  
-**Cisco Packet Tracer**, featuring:
+## 🔥 What You Will Find Here
+- 🟦 Basic Networking Setups (PC, Switch, Router)
+- 🟩 Subnetting & IP Addressing Labs
+- 🟧 VLANs & Inter-VLAN Routing
+- 🟥 Static & Dynamic Routing (RIP, OSPF, EIGRP)
+- 🟪 WAN, DHCP, NAT, Access Control Lists
+- 🔵 Cisco Packet Tracer & GNS3 Configurations
+- 🔐 Security Basics & Real Enterprise Scenarios
 
-- ✔ Subnetting of `192.168.40.0/24` into two `/25` networks  
-- ✔ Router configuration (Gig0/0 & Gig0/1)  
-- ✔ Switch-based LAN segmentation  
-- ✔ IP addressing for PCs & printers  
-- ✔ Full end-to-end connectivity  
-- ✔ Documentation + Packet Tracer file included  
+## 🎯 Purpose of This Repository
+To track my learning, build real hands-on skills,  
+and create a strong **public networking portfolio** that shows consistency, growth, and practical understanding.
 
-This project is perfect for CCNA learners, students, and beginners in enterprise networking.
+## 🛠 Tools I Use
+- Cisco Packet Tracer  
+- GNS3  
+- Cisco IOS Commands  
+- CCNA Core Concepts  
+
+💡 **New projects will be added regularly — from basic → intermediate → advanced.**  
+Stay connected and watch the journey grow!
+ 
 
